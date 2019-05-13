@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weekend Task", "Weekend Task\Weekend Task.csproj", "{44655650-115A-417E-BDDD-5B0AB8BE461A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44655650-115A-417E-BDDD-5B0AB8BE461A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44655650-115A-417E-BDDD-5B0AB8BE461A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44655650-115A-417E-BDDD-5B0AB8BE461A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44655650-115A-417E-BDDD-5B0AB8BE461A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FA93B0-D30F-4B06-A8FC-3AF06042CAC1}
+	EndGlobalSection
+EndGlobal

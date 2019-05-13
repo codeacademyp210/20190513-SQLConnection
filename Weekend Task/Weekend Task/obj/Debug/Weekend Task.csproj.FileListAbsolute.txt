@@ -1,0 +1,12 @@
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\bin\Debug\Weekend Task.exe.config
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\bin\Debug\Weekend Task.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\bin\Debug\Weekend Task.pdb
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend_Task.Login.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend_Task.Product.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend_Task.Properties.Resources.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend_Task.Register.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend Task.csproj.GenerateResource.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend Task.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend Task.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend Task.pdb
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190513\Weekend Task\Weekend Task\obj\Debug\Weekend Task.csprojAssemblyReference.cache
